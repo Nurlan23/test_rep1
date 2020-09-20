@@ -1,0 +1,8 @@
+SX
+There are two alternative command line tools for dealing with Bitcoin transactions: pybitcointools and SX. SX was created by libbitcoin developer Amir Taaki,
+and is now being actively maintained by a small team; pybitcointools was written by myself. The syntax is fairly similar, although there are differences. 
+Installing SX is relatively simple; all that you need to do is download a text file called install-sx.sh, install a few libraries, and run the text file.
+On Ubuntu, the command line instructions are as follows:
+
+wget http://sx.dyne.org/install-sx.shsudo apt-get install git build-essential autoconf libtool libboost-all-dev pkg-config libcurl4-openssl-dev libleveldb-dev libzmq-dev libconfig++-dev libncurses5-dev qrencodechmod +x install-sx.sh./install-sx.sh
+wget http://sx.dyne.org/install-sx.shsudo apt-get install git build-essential autoconf libtool libboost-all-dev pkg-config libcurl4-openssl-dev libleveldb-dev libzmq-dev libconfig++-dev libncurses5-dev qrencodechmod +x install-sx.sh./install-sx.sh
