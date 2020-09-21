@@ -13,3 +13,7 @@ https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/
 
 
 Nurlan23:
+
+
+
+https://github.com/Beatzevo/libbitcoin-master/tree/9a445f8ad7e9cff88791d5be4da1e3544eb2eb7d
