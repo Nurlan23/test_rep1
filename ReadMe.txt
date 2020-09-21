@@ -31,7 +31,7 @@ Nurlan23:
 
 https://github.com/Beatzevo/libbitcoin-master/tree/9a445f8ad7e9cff88791d5be4da1e3544eb2eb7d
 
-
+./install.sh --prefix=/home/me/myprefix --build-boost --disable-shared
 
 
 Error:
