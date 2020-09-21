@@ -77,3 +77,8 @@ Follow this https://github.com/libbitcoin/libbitcoin#debianubuntu
 After compile it in a /home/x/dir run this:
 
 g++ helloworld.cpp -I/home/dev/bitcoin-lib/include /home/dev/bitcoin-lib/lib/libbitcoin.a /home/dev/bitcoin-lib/lib/libboost_system.a /home/dev/bitcoin-lib/lib/libbitcoin.a /home/dev/bitcoin-lib/lib/libboost_program_options.a /home/dev/bitcoin-lib/lib/libboost_regex.a
+
+
+
+
+https://github.com/libbitcoin/libbitcoin/blob/version3/install.sh
