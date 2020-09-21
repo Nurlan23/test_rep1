@@ -23,3 +23,7 @@ https://github.com/Beatzevo/libbitcoin-master/tree/9a445f8ad7e9cff88791d5be4da1e
 
 Error:
 1) Fatal error: No such file or directory
+
+
+
+https://github.com/libbitcoin/libbitcoin-server/wiki/Download-BS
