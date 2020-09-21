@@ -64,3 +64,16 @@ Package libbitcoin was not found in the pkg-config search path.
 Perhaps you should add the directory containing `libbitcoin.pc'
 to the PKG_CONFIG_PATH environment variable
 No package 'libbitcoin' found
+
+
+
+
+Not able to use bitcoin/bitcoin.hpp
+https://bitcoin.stackexchange.com/questions/76327/not-able-to-use-bitcoin-bitcoin-hpp
+
+
+Follow this https://github.com/libbitcoin/libbitcoin#debianubuntu
+
+After compile it in a /home/x/dir run this:
+
+g++ helloworld.cpp -I/home/dev/bitcoin-lib/include /home/dev/bitcoin-lib/lib/libbitcoin.a /home/dev/bitcoin-lib/lib/libboost_system.a /home/dev/bitcoin-lib/lib/libbitcoin.a /home/dev/bitcoin-lib/lib/libboost_program_options.a /home/dev/bitcoin-lib/lib/libboost_regex.a
