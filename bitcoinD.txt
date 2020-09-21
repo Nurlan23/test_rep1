@@ -30,3 +30,16 @@ The “rpcpassword” displayed will be unique for your system. You can copy the
 echo rpcuser=bitcoinrpc >> ~/.bitcoin/bitcoin.conf
 echo rpcpassword=XXXXXX >> ~/.bitcoin/bitcoin.conf
 echo testnet=1 >> ~/.bitcoin/bitcoin.conf
+
+
+
+Bitcoin in a nutshell — Protocol
+https://habr.com/ru/post/319862/
+Bitcoin in a nutshell — Transaction
+https://habr.com/ru/post/319860/
+
+
+
+
+https://riptutorial.com/ru/bitcoin/example/26000/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%83%D0%B7%D0%BB%D0%B0
+
