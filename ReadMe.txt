@@ -17,3 +17,9 @@ Nurlan23:
 
 
 https://github.com/Beatzevo/libbitcoin-master/tree/9a445f8ad7e9cff88791d5be4da1e3544eb2eb7d
+
+
+
+
+Error:
+1) Fatal error: No such file or directory
