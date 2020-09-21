@@ -6,6 +6,21 @@
 *
 *
 ************************************************
+
+Bitcoin Explorer 2.0.0
+@evoskuil evoskuil released this on 14 Dec 2014 · 300 commits to version2 since this release
+
+This is the initial release of Bitcoin Explorer, the successor to the SX command line tool.
+
+Nurlan23 comments:
+we can download portable executables with source code as well for Linux, Windows
+
+
+https://github.com/libbitcoin/libbitcoin-explorer/releases?after=v2.1.0
+
+
+
+
 https://paulfioravanti.com/blog/using-c-plus-plus-bitcoin-libraries-in-elixir/
 
 How To Compile And Run a C/C++ Code In Linux
@@ -13,8 +28,6 @@ https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/
 
 
 Nurlan23:
-
-
 
 https://github.com/Beatzevo/libbitcoin-master/tree/9a445f8ad7e9cff88791d5be4da1e3544eb2eb7d
 
