@@ -30,3 +30,20 @@ https://github.com/libbitcoin/libbitcoin-server/wiki/Download-BS
 
 --#######   This is for main.cpp.
 g++ -o test main.cpp $(pkg-config --cflags --libs libbitcoin)
+
+
+
+https://github.com/libbitcoin/libbitcoin-build
+
+
+--  Instructions
+and I do this
+
+PKG_CONFIG_PATH=$PKG_CONFIG_PATH:/Users/joshuastern/Desktop/mastering_bitcoin/libbitcoin/build-libbitcoin/libbitcoin/libbitcoin.pc
+
+But I still get this
+
+Package libbitcoin was not found in the pkg-config search path.
+Perhaps you should add the directory containing `libbitcoin.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'libbitcoin' found
