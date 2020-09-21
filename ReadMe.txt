@@ -27,3 +27,6 @@ Error:
 
 
 https://github.com/libbitcoin/libbitcoin-server/wiki/Download-BS
+
+--#######   This is for main.cpp.
+g++ -o test main.cpp $(pkg-config --cflags --libs libbitcoin)
