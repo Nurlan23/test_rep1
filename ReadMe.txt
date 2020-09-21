@@ -33,10 +33,14 @@ g++ -o test main.cpp $(pkg-config --cflags --libs libbitcoin)
 
 
 
-https://github.com/libbitcoin/libbitcoin-build
+
 
 
 --  Instructions
+
+download this libbitcoin-build
+https://github.com/libbitcoin/libbitcoin-build
+
 and I do this
 
 PKG_CONFIG_PATH=$PKG_CONFIG_PATH:/Users/joshuastern/Desktop/mastering_bitcoin/libbitcoin/build-libbitcoin/libbitcoin/libbitcoin.pc
