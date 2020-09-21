@@ -82,3 +82,6 @@ g++ helloworld.cpp -I/home/dev/bitcoin-lib/include /home/dev/bitcoin-lib/lib/lib
 
 
 https://github.com/libbitcoin/libbitcoin/blob/version3/install.sh
+
+
+./install.sh --prefix=/home/me/myprefix --build-boost --disable-shared
