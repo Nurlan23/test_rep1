@@ -1,3 +1,6 @@
+###   https://prognotes.net/2015/07/gtk-3-glade-c-programming-template/
+###   https://prognotes.net/2016/03/gtk-3-c-code-hello-world-tutorial-using-glade-3/
+
 # change application name here (executable output name)
 TARGET=template_app
 
