@@ -28,3 +28,16 @@ void on_window_main_destroy()
 {
     gtk_main_quit();
 }
+
+
+// called when button is clicked
+void on_btn_hello_clicked()
+{
+    static unsigned int count = 0;
+    char str_count[30] = {0};
+    
+    gtk_label_set_text(GTK_LABEL(g_lbl_hello), "Hello, world!");
+    count++;
+    sprintf(str_count, "%d", count);
+    gtk_label_set_text(GTK_LABEL(g_lbl_count), str_count);
+}
